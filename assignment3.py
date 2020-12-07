@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#author(s): Jorge Cancino(JYC170000)
+#author(s): Jorge Cancino
 
 import pandas as pd
 import numpy as np
